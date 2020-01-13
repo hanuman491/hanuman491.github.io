@@ -41,7 +41,7 @@ module.exports = "\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = "<!--The content below is only a placeholder and can be replaced.-->\n<div style=\"text-align:center\">\n  <h1>\n    Resume\n  </h1>\n  <embed src=\"../assets/hanuman-resume.pdf\" width=\"800px\" height=\"2100px\" />\n</div>\n\n\n"
+module.exports = "<!--The content below is only a placeholder and can be replaced.-->\n<div style=\"text-align:center\">\n  <h1>\n    Hello, I'm <b style=\"color: red;\">Hanuman Reddy</b> I'm a <b style=\"border: solid 1px; padding: 4px; border-radius: 4px;\">MEAN Stack Developer</b>\n  </h1>\n  <img width=\"1080\" alt=\"Angular Logo\" src=\"https://hackernoon.com/hn-images/0*oRIVuWSZQ-io7WUw.png\">\n  <img width=\"300\" alt=\"Angular Logo\" src=\"../assets/photo.jpeg\">\n  \n  <hr>\n\n  <h1>Resume</h1>\n  \n  <iframe src=\"../assets/hanuman-resume.pdf\" width=\"720\" height=\"780\" style=\"border: none;\"></iframe>\n\n</div>\n\n\n"
 
 /***/ }),
 
@@ -177,7 +177,7 @@ Object(_angular_platform_browser_dynamic__WEBPACK_IMPORTED_MODULE_1__["platformB
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! D:\github\viewpoint\src\main.ts */"./src/main.ts");
+module.exports = __webpack_require__(/*! D:\Resume\src\main.ts */"./src/main.ts");
 
 
 /***/ })
